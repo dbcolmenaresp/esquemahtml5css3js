@@ -19,3 +19,8 @@ Para que el documento quede validado, la etiqueta script debe tener el atributo
 type="text/javascript"
 
 En el valor scr se indica la ruta y el nombre del archivo que contiene el codigo javascript que se desea ejecutar desde la pagina HTML.
+
+## Referencias
+
+Como incluir javascript en HTML  
+http://mialtoweb.es/como-incluir-javascript-en-html/
