@@ -14,4 +14,8 @@ Sin embargo la mejor opcion es hacer un enlace a un archivo externo que contenga
 
 <script type="text/javascript" scr="./js/script.js"></script>
 
+Para que el documento quede validado, la etiqueta script debe tener el atributo  
+
+type="text/javascript"
+
 En el valor scr se indica la ruta y el nombre del archivo que contiene el codigo javascript que se desea ejecutar desde la pagina HTML.
