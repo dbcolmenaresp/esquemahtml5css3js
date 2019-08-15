@@ -2,6 +2,8 @@
 
 Esquema de pagina realizada con los estandares html5 y css3 con codigo javascript para gua de desarrollo de otras paginas
 
+El nuevo estandar html 5 provee los elementos estrucutrales, css se centra en comohacer esa estrucutra usable y atractiva visualmente y javascript provee el dinamismo a las aplicaciones web.
+
 ## Javascript
 
 La finalidad principal de javascript es permitir la creacion de paginas dinamicas, con codigo que se ejecuta del lado del criente, disminuyendo la tarea del servidor y disminuyendo el numero de peticiones que se le hacen a este.
