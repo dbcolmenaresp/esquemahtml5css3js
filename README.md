@@ -2,7 +2,19 @@
 
 Esquema de pagina realizada con los estandares html5 y css3 con codigo javascript para gua de desarrollo de otras paginas
 
+El estandar HTML5 es una evolucón de HTML4 y XHTML
+
 El nuevo estandar html 5 provee los elementos estrucutrales, css se centra en comohacer esa estrucutra usable y atractiva visualmente y javascript provee el dinamismo a las aplicaciones web.
+
+## CSS3
+
+CSS3 no fomra parte de la definición de HTML5, complementa esta para mejorar la presentacion de la pagina.
+
+CSS3 sobreescribe los estilos por defecto del navegador.
+
+CSS3 se enlaza con el documento HTML5 desde un archivo esterno a través de una etiqueta link dentro d la etiqueta head.
+
+'<link rel = "stylesheet" href = "/css/estilos.css">'
 
 ## Javascript
 
